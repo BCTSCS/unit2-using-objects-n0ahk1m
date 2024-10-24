@@ -57,6 +57,6 @@ public class WordGames extends Actor
     }
     
     public String toString(){
-        return "";
+        return "[" + word + "]";
     }
 }
